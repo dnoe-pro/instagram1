@@ -1,0 +1,87 @@
+{ 
+"story":  [ 
+    {
+    "userId": 1,
+    "name": "jho_cadi",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Cardi_B_2021_02.jpg" 
+    },
+    {
+    "userId": 2,
+    "name": "emiPour",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Michel_Sardou_2014.jpg" 
+    },
+    {
+    "userId": 3,
+    "name": "FerDurand",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Emmanuel_Macron_%28cropped%29.jpg/170px-Emmanuel_Macron_%28cropped%29.jpg" 
+    },
+    {
+    "userId": 4,
+    "name": "MadLoup",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Maupi-annees1930.png" 
+    },
+    {
+    "userId": 5,
+    "name": "jsDu_Pond",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrE7ucnvgPu5vyfjME1ZQHaM0c4hbVmRf64Q&usqp=CAU" 
+    },
+    {
+    "userId": 6,
+    "name": "pat_note",
+    "img": "https://medias.spotern.com/wanted/w640/74/74162-1658386405.jpg" 
+    },
+    {
+    "userId": 7,
+    "name": "Mac_Joe",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Elon_Musk_Colorado_2022_%28cropped2%29.jpg/800px-Elon_Musk_Colorado_2022_%28cropped2%29.jpg" 
+    }
+],
+"post" : [
+    {
+        "userId": 6,
+        "images" : [
+            "https://i.pinimg.com/736x/c5/fa/5d/c5fa5d04525950debb9d9e73d96d5221.jpg",
+            "https://img.freepik.com/photos-premium/canada-ia-generative_784890-13726.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXM6qcgSgpMWvNiTMmzQN3DixKIw_ekogpZA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt_4gngEFoOGSgQCF38oicjh4O7cjxNiDjVQ&usqp=CAU"
+        ],
+        "nb_like" : "158",
+        "description" : "Voyage avec les copains",
+        "date_post": "07/01/2024 8h36"
+    },
+    {
+        "userId": 3,
+        "images" : [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvcp2Fze-M0fDieO5ARVFU8plzrHpm3MpZfQ&usqp=CAU",
+            "https://cdn-s-www.estrepublicain.fr/images/94DD23B8-87F6-4356-970A-DFFA88FE4CC9/NW_raw/le-premier-conseil-des-ministres-du-gouvernement-attal-a-debut-ce-vendredi-capture-d-ecran-1705055792.jpg",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc1EhQBb9sGIPTltHtRX5XnVD4XBx9BbsEw2NM9oTivY0XczMSopHYaqEH8sp_ibwCDUU&usqp=CAU"
+        ],
+        "nb_like" : "100 587",
+        "description" : "Au Boulot",
+        "date_post": "01/01/2024 17h25"
+    },
+    {
+        "userId": 1,
+        "images" : [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmCy16nhIbV3pI1qLYHMJKwbH2458oiC9EmA&s",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKnPZz76HOyJTR4dOfmNbZbtGm_sZsF-7_Jw&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRW-Q4ksg6O9gMKzjBqOc5IbkdUmbUNHlIscw&usqp=CAU"
+        ],
+        "nb_like" : "23",
+        "description" : "MaMa mon seigneur",
+        "date_post": "12/01/2024 4h02"
+    },
+    {
+        "userId": 7,
+        "images" : [
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFl3NCqe3YXEVhqJ6SYXkCLlDCNhhF_UPQg&usqp=CAU",
+            "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUyXQkvGyNecj545sbDOOLkA4Fhksh-yavWQ&usqp=CAU"
+        ],
+        "nb_like" : "1690",
+        "description" : "Décollage 3...2...1 Direction Mars",
+        "date_post": "12/12/2023 21h23"
+    }
+]
+
+
+}
